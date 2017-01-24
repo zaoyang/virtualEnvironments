@@ -18,5 +18,4 @@ dependencies:
 - zlib=1.2.8=3
 - pip:
   - hmmlearn==0.2.0
-prefix:  ~/Dropbox\ \(Personal\)/Code/virtualEnvironments
-
+prefix: /Users/zaoyang/Dropbox (Personal)/Code/virtualEnvironments
